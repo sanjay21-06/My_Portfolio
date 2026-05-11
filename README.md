@@ -14,6 +14,8 @@ https://my-portfolio-mu-three-94.vercel.app/
 ---
 
 # Contact
-LinkedIn: https://www.linkedin.com/in/b-sanjaynath-reddy/
-GitHub: https://github.com/sanjay21-06
+LinkedIn: https://www.linkedin.com/in/b-sanjaynath-reddy/  
+
+GitHub: https://github.com/sanjay21-06  
+
 Email: bsanjayr2106@gmail.com
